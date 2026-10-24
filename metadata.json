@@ -1,0 +1,6 @@
+{
+  "name": "NexusAI Universal Router & GGUF Engine Hub",
+  "description": "Unified AI API router and proxy gateway with custom engine injection, local GGUF execution, 30+ provider connectors, and single-URL routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
